@@ -19,4 +19,4 @@ This project demonstrates a fundamental machine learning workflow to predict pro
 To run this project, you need to have Python and the necessary libraries installed. You can install them using `pip`:
 ```bash
 pip install pandas scikit-learn matplotlib numpy
-<img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/775fc5d4-dad0-4d7a-ac2a-733dd5e3b7f0" />
+#<img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/775fc5d4-dad0-4d7a-ac2a-733dd5e3b7f0" />
